@@ -1,0 +1,5 @@
+.meteor/local
+.meteor/.*
+.DS_Store
+.npm
+npm-container
